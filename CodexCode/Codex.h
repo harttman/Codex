@@ -1,4 +1,0 @@
-#define BUTTON_ID 1
-
-#define MENU_EXIT_ID 1001
-#define SETTINGS_ID 1002
